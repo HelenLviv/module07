@@ -1,0 +1,41 @@
+html {display: block;}
+title {display: none;}
+style {display: none;}
+body {display: block; margin: 8px;}
+h1 {
+display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 10px;
+    -webkit-margin-end: 10px;
+    font-weight: bold;
+}
+.outer-table table {border-spacing: 10px;}
+table, td {
+    border: 1px solid black;
+    border-spacing: 10px;
+}
+table {
+    border-spacing: 10px;
+}
+
+table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-variant: normal;
+    font-style: normal;
+    color:inherit;
+    text-align:center;
+    border-spacing: 10px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
